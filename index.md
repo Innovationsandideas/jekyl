@@ -1,8 +1,3 @@
---
-layout: default
-title: Home
----
-
-# Welcome to My Simple Jekyll Site!
-
-This is a very simple page created using Jekyll and hosted on GitHub Pages.
+In da works a creatin good thingy called website. 
+Any github'ers wanna pitch in? 
+read me will tell ya more...
